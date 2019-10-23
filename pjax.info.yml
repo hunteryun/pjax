@@ -1,0 +1,5 @@
+name: Pjax
+type: module
+description: PJAX for HunterPHP.
+core: 1.x
+package: Hunter
